@@ -1,0 +1,36 @@
+/* CSS Document */
+body{
+		background-color: #EFEFEF;
+		font-family: "Trebuchet MS", SansSerif;
+		}
+a {
+		text-decoration:none;
+		color:#0000ff;
+		}
+		
+
+#footer { width:100%;
+			border-top: #ffffff 1px solid;
+			text-align:center;
+			font-size:10px;
+			background-color:#ADB1AD;
+			}
+#tabel{background-color:#ffffff;
+		padding:2px;
+		font-size:12px;
+		align-content:center;
+		}
+#tabel th{color:#ffffff;
+			background-color:#222222;
+			padding:2px;
+			}
+			
+#tabel1{background-color:#ffffff;
+		padding:2px;
+		font-size:30px;
+		text-align:center;
+		}
+#tabel1 th{color:#ffffff;
+			background-color:#222222;
+			padding:2px;
+			}
